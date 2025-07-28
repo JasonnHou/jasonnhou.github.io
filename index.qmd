@@ -27,7 +27,7 @@ about:
       href: https://nuaa.edu.cn/
     - icon: 📝
       text: CV
-      href: CV-HouHu.pdf  
+      href: CVHouHu.pdf  
 ---
 
 ::: {#hero-heading}
