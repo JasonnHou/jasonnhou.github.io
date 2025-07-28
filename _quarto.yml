@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Hu Hou"
+  site-url: https://JasonHou.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/JasonHou/JasonHou.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [JasonHou.cn](https://www.JasonHou.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     

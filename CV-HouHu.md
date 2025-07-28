@@ -1,0 +1,54 @@
+---
+title: "中文简历"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 侯虎个人简介
+
+侯虎，男，中共党员，博士研究生。
+2021 年毕业于贵州理工学院机械工程学院，获工学学士学位；
+2025 年毕业于上海应用技术大学机械工程学院，获工学硕士学位。
+现为南京航空航天大学博士研究生。研究方向仿生智能驱动等，
+成果见诸 *Computer Methods in Biomechanics and Biomedical Engineering*, *虚位以待* 等期刊，
+曾获硕士研究生国家奖学金，优秀共青团员标兵，优秀毕业生等荣誉称号。
+
+- 邮箱：houhu_163163@163.com
+- 电话：17685069392
+- 办公：南航明故宫校区 
+- 地址：南航明故宫校区
+
+## 教育和工作背景
+
+- 2025-2029: 博士，机械工程，南京航空航天大学
+- 2022-2025: 硕士，机械工程，上海应用技术大学
+- 2017-2021: 学士，机械工程，贵州理工学院
+
+## 主修课程
+
+- 机械原理、机械设计
+
+## 研究兴趣
+
+- 数值仿真
+- 仿生驱动
+
+
+## 部分论文
+
+-   **Hou H**, Zhang J, Huang S, et al. Mechanical effect of taper position in abutment hole and screw taper angles on implant system and peri-implant tissue: a finite element analysis[J]. Computer Methods in Biomechanics and Biomedical Engineering, 2024: 1-9.[-Link-](https://www.tandfonline.com/doi/abs/10.1080/10255842.2024.2423253)
+-   Zhang J(advisor), **Hou H**, Chen P, et al. Mechanical and modal analysis of different implant strategies for loss of three teeth with bone atrophy in the maxillary posterior region[J]. Computer Methods in Biomechanics and Biomedical Engineering, 2024: 1-10.[-Link-](https://www.tandfonline.com/doi/abs/10.1080/10255842.2024.2358363)
+-   Zhang J(advisor), **Hou H**, Chen P, et al. Biomechanical Performance of Different Implant Spacings and Placement Angles in Partial Fixed Denture Prosthesis Restorations: A Finite Element Analysis[J]. Journal of Medical and Biological Engineering, 2024, 44(5): 685-695.[-Link-](https://www.tandfonline.com/doi/abs/10.1080/10255842.2024.2358363)
+-   -   Zhang J, Lin M, Hou H, et al. EASAM: an edge-aware SAM-based paradigm for tooth segmentation[J]. Signal, Image and Video Processing, 2025, 19(8): 673.[-Link-](https://link.springer.com/article/10.1007/s11760-025-04208-2)
+
+
+
+
+## 科研项目
+
+1. 上海市“科技创新行动计划”自然科学基金面上项目（编号：23141901400），2022-2023. 参与，已结项
+2. 上海应用技术大学协同创新基金-跨学科、多领域合作研究专项（编号：XTCX2023-18）， 2023-2024. 参与，已结项
+
+
+<!-- ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/LianxhHome.PNG) -->
