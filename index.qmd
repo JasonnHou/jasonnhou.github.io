@@ -10,24 +10,30 @@ about:
     - icon: mailbox
       text: houhu_163163@163.com
       href: mailto:houhu_163163@163.com
+
     - icon: github
       text: JasonHou
       href: https://github.com/JasonHou
+
     - icon: book
       text: researchgate
       href: https://www.researchgate.net/
+
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/my-orcid?orcid=0009-0004-8447-6491
+
     - icon: brands xing
       text: 小红书
       href: https://www.xiaohongshu.com/user/profile/6048d00c000000000100398f
+
     - icon: solid user
       text: 工作主页
       href: https://nuaa.edu.cn/
+
     - icon: 📝
       text: CV
-      href: CVHouHu.pdf  
+      href: CVHouHu.pdf
 ---
 
 ::: {#hero-heading}
@@ -39,8 +45,8 @@ During his time at university, he was awarded the National Scholarship for Maste
 
 ## Background
 
-- 2025-To be determined: PH.D, DNanjing University of Aeronautics and Astronautics, China, specializing in Mechanical Engineering
-- 2022-2025: Master of Engineering, Shanghai Institute of Technology, China, specializing in Mechanical Engineering
+- 2025-To be determined: PH.D, Nanjing University of Aeronautics and Astronautics, China, specializing in Mechanical Engineering.
+- 2022-2025: Master of Engineering, Shanghai Institute of Technology, China, specializing in Mechanical Engineering.
 - 2017-2021: Bachelor of Engineering, Guizhou Institute of Technology, China, majoring in Mechanical Engineering.
 
 :::

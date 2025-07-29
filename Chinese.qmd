@@ -40,7 +40,7 @@ editor:
 -   Hou H, Zhang J, Huang S, et al. Mechanical effect of taper position in abutment hole and screw taper angles on implant system and peri-implant tissue: a finite element analysis[J]. Computer Methods in Biomechanics and Biomedical Engineering, 2024: 1-9.[-Link-](https://www.tandfonline.com/doi/abs/10.1080/10255842.2024.2423253)
 -   Zhang J(advisor), Hou H, Chen P, et al. Mechanical and modal analysis of different implant strategies for loss of three teeth with bone atrophy in the maxillary posterior region[J]. Computer Methods in Biomechanics and Biomedical Engineering, 2024: 1-10.[-Link-](https://www.tandfonline.com/doi/abs/10.1080/10255842.2024.2358363)
 -   Zhang J(advisor), Hou H, Chen P, et al. Biomechanical Performance of Different Implant Spacings and Placement Angles in Partial Fixed Denture Prosthesis Restorations: A Finite Element Analysis[J]. Journal of Medical and Biological Engineering, 2024, 44(5): 685-695.[-Link-](https://www.tandfonline.com/doi/abs/10.1080/10255842.2024.2358363)
-
+-   Zhang J, Lin M, Hou H, et al. EASAM: an edge-aware SAM-based paradigm for tooth segmentation[J]. Signal, Image and Video Processing, 2025, 19(8): 673.[-Link-](https://link.springer.com/article/10.1007/s11760-025-04208-2)
 
 ## 科研项目
 
