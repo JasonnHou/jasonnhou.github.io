@@ -1,5 +1,5 @@
 ---
-title: "侯虎（Hu Hou）"
+title: "Hu Hou"
 image: images/houhu-hongkong.png
 about:
   id: hero-heading
@@ -33,7 +33,7 @@ about:
 
     - icon: 📝
       text: CV
-      href: CVHouHu.pdf
+      href: CV-HouHu.pdf
 ---
 
 ::: {#hero-heading}
