@@ -5,14 +5,14 @@ project:
 website:
   page-navigation: true
   title: "Hu Hou"
-  site-url: https://JasonHou.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/JasonHou/JasonHou.github.io
+  site-url: https://JasonnHou.github.io
+  favicon: images/NUAA.png
+  repo-url: https://github.com/JasonHou/JasonnHou.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [JasonHou.cn](https://www.JasonHou.cn)<br>
+      [JasonnHou.cn](https://www.JasonnHou.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -22,16 +22,13 @@ website:
     right: 
       - text: "Home"
         href: index.qmd
+
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
+
       - text: "中文"
         href: Chinese.qmd
+        
       - text: "CV"
         href: CVHouHu.pdf
 

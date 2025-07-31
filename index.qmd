@@ -13,7 +13,7 @@ about:
 
     - icon: github
       text: JasonHou
-      href: https://github.com/JasonHou
+      href: https://github.com/JasonnHou
 
     - icon: book
       text: researchgate
@@ -33,7 +33,7 @@ about:
 
     - icon: 📝
       text: CV
-      href: CV-HouHu.pdf
+      href: CVHouHu.pdf
 ---
 
 ::: {#hero-heading}
