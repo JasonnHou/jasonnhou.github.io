@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "Hu Hou"
   site-url: https://JasonnHou.github.io
-  favicon: images/NUAA.png
+  favicon: images/hu.png
   repo-url: https://github.com/JasonHou/JasonnHou.github.io
   repo-actions: [edit, issue]
   
@@ -30,7 +30,7 @@ website:
         href: Chinese.qmd
         
       - text: "CV"
-        href: CV.pdf
+        href: CVHouHu.pdf
 
 format:
   html:

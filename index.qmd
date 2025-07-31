@@ -33,7 +33,7 @@ about:
 
     - icon: 📝
       text: CV
-      href: CV.pdf
+      href: CVHouHu.pdf
 ---
 
 ::: {#hero-heading}
