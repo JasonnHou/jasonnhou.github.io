@@ -33,14 +33,14 @@ about:
 
     - icon: 📝
       text: CV
-      href: CVHouHu.pdf
+      href: CV.pdf
 ---
 
 ::: {#hero-heading}
 
-Hou Hu, a member of the Communist Party of China, is from Tai'an, Shandong Province. 
+Hou Hu, CPC, is from Tai'an, Shandong Province. 
 He is currently pursuing a doctoral degree at Nanjing University of Aeronautics and Astronautics, 
-where his research focuses on bionic intelligent drive systems.
+where his research focuses on Ion polymer metal composite materials，bionic intelligent drive systems and numerical simulation.
 During his time at university, he was awarded the National Scholarship for Master's Degree Students and the title of Outstanding Communist Youth League Member.
 
 ## Background

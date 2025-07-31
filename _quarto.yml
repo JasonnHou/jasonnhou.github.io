@@ -30,7 +30,7 @@ website:
         href: Chinese.qmd
         
       - text: "CV"
-        href: CVHouHu.pdf
+        href: CV.pdf
 
 format:
   html:
